@@ -10,7 +10,7 @@ En su labor como programador de software ha sido elegido para el desarrollo de u
 ## Historia de Usuario Jira
 Aproximación Plantilla Historia de Usuario:
 
-![historia](https://github.com/edwardFajardo64/edwardseguro.github.io/assets/137090151/d2cd3cf9-e6a9-421f-9cb8-9405d9c6f5fb)
+![usuario](https://github.com/edwardFajardo64/correccion/assets/137090151/a4810b55-2948-4f34-afa0-917bd57e99e4)
 
 
 ## Caso de Uso
