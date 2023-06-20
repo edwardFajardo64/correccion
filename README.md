@@ -1,6 +1,7 @@
-#PROYECTO ASEGURADORA
+## Proyecto aseguradora:
+
 En su labor como programador de software ha sido elegido para el desarrollo de una aplicación que necesita el dueño de una aseguradora, que desea calcular el promedio de 3 calificaciones hechas hacia los vendedores de seguros por los clientes de un periodo determinado. La aseguradora evalúa a todos los vendedores y calcula el promedio general e individual de los vendedores sobre esas 3  calificaciones. Como información básica el dueño debe registrar la identificación, nombre y oficina de cada empleado a realizar promedio.
-## Aclaraciones: 
+ ## Aclaraciones:
 -  Se supondrá que la aplicación solo se requiere para calcular el promedio de un único periodo especifico.
 -  Para efectos de mantener la simplicidad del ejercicio no se contemplan manejar persistencia en el almacenamiento de los datos
 -  No se realiza validación, ni se verifica calidad en los datos ingresados.
@@ -25,7 +26,7 @@ Aproximación Diagrama de Flujo:
 ## Pseudocódigo
 Aproximación  Pseudocódigo::
 
-![psuedo](https://github.com/edwardFajardo64/edwardseguro.github.io/assets/137090151/41d02290-5364-453a-84b9-8f216af0380e)
+![codigo](https://github.com/edwardFajardo64/correccion/assets/137090151/b9139f49-4fd5-4930-8957-ecabcb8481c3)
 
 > EDWARD FAJARDO CANTE BALLEN
 >INGENIERIA DE SISTEMAS
