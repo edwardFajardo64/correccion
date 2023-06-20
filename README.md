@@ -15,7 +15,7 @@ Aproximación Plantilla Historia de Usuario:
 ## Caso de Uso
 Aproximación Caso de Uso:
 
-![caso](https://github.com/edwardFajardo64/edwardseguro.github.io/assets/137090151/c5ecd039-5eaa-4f08-b6ed-4b9b66b0b115)
+![uso](https://github.com/edwardFajardo64/edwardseguro.github.io/assets/137090151/d9fe8265-4469-4ad8-bd87-256a28075855)
 
 ## Diagrama de Flujo - Pseint
 Aproximación Diagrama de Flujo:
