@@ -65,6 +65,6 @@ public class Calificaciones{
         }
         
         promedio = miEdificio.calcularPromedioGeneral();
-        System.out.println("\n El promedio de notas es: " + promedio); 
+        System.out.println("\n El promedio de calificaciones es: " + promedio); 
     }
 }
