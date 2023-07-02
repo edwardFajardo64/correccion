@@ -61,7 +61,7 @@ public class Calificaciones{
             cali3 = sc.nextDouble();
             System.out.println("Digite cuarta calificacion del vendedor: ");
             cali4 = sc.nextDouble();            
-            miEdificio.adicionarEstudianteTecnico(identificacion, nombre, oficina, cali1, cali2, cali3, cali4);
+            miEdificio.adicionarVendedorAvanzado(identificacion, nombre, oficina, cali1, cali2, cali3, cali4);
         }
         
         promedio = miEdificio.calcularPromedioGeneral();
