@@ -84,7 +84,7 @@ public class Edificio
         numVendedores2++;
     }
     
-    public void adicionarEstudianteTecnico(String identificacion, String nombre, String oficina, double caliuno, double calidos, double calitres, double calicuatro){
+    public void adicionarVendedorAvanzado(String identificacion, String nombre, String oficina, double caliuno, double calidos, double calitres, double calicuatro){
         vendedor3[numVendedores3] = new VendedorAvanzado(identificacion, nombre, oficina, caliuno, calidos, calitres, calicuatro);
         numVendedores3++;
     }
