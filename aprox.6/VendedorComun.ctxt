@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.target=VendedorComun
+comment1.params=id\ nombre\ ofi\ caliuno\ calidos\ calitres
+comment1.target=VendedorComun(java.lang.String,\ java.lang.String,\ java.lang.String,\ double,\ double,\ double)
+comment2.params=
+comment2.target=double\ calcularpromedio()
+comment3.params=
+comment3.target=double\ getCaliuno()
+comment4.params=caliuno
+comment4.target=void\ setCaliuno(double)
+comment5.params=
+comment5.target=double\ getCalidos()
+comment6.params=calidos
+comment6.target=void\ setCalidos(double)
+comment7.params=
+comment7.target=double\ getCalitres()
+comment8.params=calitres
+comment8.target=void\ setCalitres(double)
+numComments=9
