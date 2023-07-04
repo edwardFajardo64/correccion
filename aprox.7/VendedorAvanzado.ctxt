@@ -1,0 +1,23 @@
+#BlueJ class context
+comment0.target=VendedorAvanzado
+comment1.params=id\ nom\ ofi\ cuno\ cdos\ ctres\ ccuatro
+comment1.target=VendedorAvanzado(java.lang.String,\ java.lang.String,\ java.lang.String,\ double,\ double,\ double,\ double)
+comment10.params=ccuatro
+comment10.target=void\ setCcuatro(double)
+comment2.params=
+comment2.target=double\ calcularProm()
+comment3.params=
+comment3.target=double\ getCuno()
+comment4.params=cuno
+comment4.target=void\ setCuno(double)
+comment5.params=
+comment5.target=double\ getCdos()
+comment6.params=cdos
+comment6.target=void\ setCdos(double)
+comment7.params=
+comment7.target=double\ getCtres()
+comment8.params=ctres
+comment8.target=void\ setCtres(double)
+comment9.params=
+comment9.target=double\ getCcuatro()
+numComments=11

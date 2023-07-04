@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.target=Vendedor
+comment1.params=id\ nom\ ofi
+comment1.target=Vendedor(java.lang.String,\ java.lang.String,\ java.lang.String)
+comment2.params=
+comment2.target=double\ calcularProm()
+comment3.params=
+comment3.target=java.lang.String\ getId()
+comment4.params=
+comment4.target=java.lang.String\ getNom()
+comment5.params=nom
+comment5.target=void\ setNom(java.lang.String)
+comment6.params=
+comment6.target=java.lang.String\ getOfi()
+comment7.params=ofi
+comment7.target=void\ setOfi(java.lang.String)
+numComments=8
