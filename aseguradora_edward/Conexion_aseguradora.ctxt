@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=Conexion_aseguradora
+comment1.params=
+comment1.target=java.sql.Connection\ conectarse_aseguradora()
+comment2.params=con_aseguradora
+comment2.target=void\ cerrarConexion_aseguradora(java.sql.Connection)
+numComments=3

@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.target=ControllerVendedor_seguros
+comment1.params=
+comment1.target=ControllerVendedor_seguros()
+comment2.params=vendedor
+comment2.target=void\ registrar(Vendedor_seguros)
+comment3.params=vendedor
+comment3.target=void\ actualizar(Vendedor_seguros)
+comment4.params=vendedor
+comment4.target=void\ eliminar(Vendedor_seguros)
+comment5.params=
+comment5.target=void\ verVendedores()
+comment6.params=numero
+comment6.target=Vendedor_seguros\ obtenerVendedorPornumero(int)
+comment7.params=mensaje\ e
+comment7.target=void\ mostrarError(java.lang.String,\ java.lang.Exception)
+numComments=8

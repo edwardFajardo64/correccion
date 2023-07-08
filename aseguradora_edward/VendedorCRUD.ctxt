@@ -1,0 +1,23 @@
+#BlueJ class context
+comment0.target=VendedorCRUD
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+comment10.params=message
+comment10.target=java.lang.String\ readString(java.lang.String)
+comment2.params=
+comment2.target=void\ registrarVendedor()
+comment3.params=
+comment3.target=void\ actualizarVendedor()
+comment4.params=
+comment4.target=void\ eliminarVendedor()
+comment5.params=
+comment5.target=void\ listarVendedores()
+comment6.params=
+comment6.target=void\ consultarVendedorPornumero()
+comment7.params=
+comment7.target=Vendedor_seguros\ guardarVendedor()
+comment8.params=
+comment8.target=int\ leernumero()
+comment9.params=message
+comment9.target=double\ readRese\u00F1a(java.lang.String)
+numComments=11

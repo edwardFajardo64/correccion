@@ -1,0 +1,15 @@
+#BlueJ class context
+comment0.target=Vendedor_seguros_DaoImpl
+comment1.params=vendedor
+comment1.target=boolean\ registrarVendedor(Vendedor_seguros)
+comment2.params=
+comment2.target=java.util.List\ obtenerVendedores()
+comment3.params=vendedor
+comment3.target=boolean\ actualizarVendedor(Vendedor_seguros)
+comment4.params=vendedor
+comment4.target=boolean\ eliminarVendedor(Vendedor_seguros)
+comment5.params=numero
+comment5.target=Vendedor_seguros\ obtenerVendedorPornumero(int)
+comment6.params=rs
+comment6.target=Vendedor_seguros\ obtenerVendedorDesdeResultSet(java.sql.ResultSet)
+numComments=7

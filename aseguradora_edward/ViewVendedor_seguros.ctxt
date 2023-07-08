@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=ViewVendedor_seguros
+comment1.params=vendedor
+comment1.target=void\ verVendedor_seguros(Vendedor_seguros)
+comment2.params=vendedores
+comment2.target=void\ verVendedor_seguros(java.util.List)
+numComments=3
